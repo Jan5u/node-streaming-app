@@ -1,0 +1,17 @@
+html {
+  background-color: black;
+  color: white;
+}
+
+body {
+  margin: auto;
+  width: 50%;
+}
+
+::cue {
+  background-color: unset;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xxx-large;
+  text-shadow: 0 0 3px black;
+}
